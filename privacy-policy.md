@@ -1,6 +1,6 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** July 26, 2026
+**Last updated:** July 29, 2026
 
 AIM Lift ("the App") is developed by Meticulous Otter Waffle ("we," "us," "our"). This policy explains what information the App collects, how it's used, and your choices.
 
@@ -24,11 +24,11 @@ We do not sell your data. We do not use your data for advertising. We do not sha
 
 The App uses **Google Firebase** for authentication and data storage. Firebase's own privacy practices are described at [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
 
-The App uses Firebase Analytics to help us understand how the App is used (such as which screens are visited and which features are used) and Firebase Crashlytics to detect and diagnose crashes. This data is aggregated and does not identify you personally.
+The App uses Firebase Analytics to help us understand how the App is used (such as which screens are visited and which features are used) and Firebase Crashlytics to detect and diagnose crashes. Crash reports are tied to an internal identifier for your installation so we can look into and fix issues affecting specific users, but never include your name, email, or workout details.
 
 ## Your Choice About Diagnostics
 
-The first time you open AIM Lift, we ask whether you're happy for us to collect anonymous crash reports and usage data. Nothing is collected until you answer — if you decline, or before you've answered, both crash reporting and usage analytics stay switched off.
+The first time you open AIM Lift, we ask whether you're happy for us to collect crash reports and usage data, tied to your installation, to help us find and fix more serious bugs. Nothing is collected until you answer — if you decline, or before you've answered, both crash reporting and usage analytics stay switched off.
 
 This data is never sold, never used for advertising, and never includes your workout details.
 
