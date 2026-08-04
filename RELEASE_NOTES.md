@@ -10,6 +10,8 @@ Created 2026-08-04 at Jon's request, at the bug-settings-scrollbar-large-font cl
 - **The code block is the paste-ready copy** — exactly what goes in Play Console's "What's new" field, nothing else.
 - 🔴 **Play Console pre-fills "What's new" with the PREVIOUS release's notes.** It does not present an empty required field, so a release can ship carrying the wrong build's notes without anyone noticing. **versionCode 5 shipped with versionCode 4's notes for exactly this reason.** Always rewrite rather than assuming the field is empty and blocking.
 - **PSC drafts these unprompted for every AAB build** (Jon, 2026-08-03), delivered in a code block alongside the AAB path. Jon never composes them at the console.
+- **Each section header carries an upload date where one is known** — the date the AAB was actually uploaded to Play Console, not the round's closeout/build date, except where noted otherwise on that specific entry. *(release-notes-mirror-and-docs-update, 2026-08-04.)*
+- 🔴 **This file is mirrored to a clean, user-facing `CHANGELOG.md` in the public `aim-lift-legal` repo** (`https://the-converter-523.github.io/aim-lift-legal/CHANGELOG`) — version, upload date, and the bullet list only, no meta-commentary. **Every time this file gets a new versionCode section, regenerate and push `CHANGELOG.md` to `aim-lift-legal` in the same step.** Every future "What's new" draft ends with a standing line — `Full changelog: https://the-converter-523.github.io/aim-lift-legal/CHANGELOG` — pointing at that file, never at this one. *(release-notes-mirror-and-docs-update, 2026-08-04 — full convention in DEV_CONVENTIONS.md.)*
 
 ## Tone — terse changelog, not marketing (Jon, 2026-08-03)
 
@@ -27,9 +29,9 @@ Flat bullets, almost curt, professional. It reads like a developer's release log
 
 ---
 
-## versionCode 9 — 2026-08-04
+## versionCode 9 — Uploaded 2026-08-04
 
-*Round: `eyebrow-fittedbox-fix`, bundling everything queued since versionCode 8 (`round-a11y-truncation-fixes` + follow-ups). Closed testing - Alpha, fourth in-window update. Fork: RELEASE NOW.*
+*Round: `eyebrow-fittedbox-fix`, bundling everything queued since versionCode 8 (`round-a11y-truncation-fixes` + follow-ups). Closed testing - Alpha, fourth in-window update. Fork: RELEASE NOW. Confirmed uploaded and live (Jon, 2026-08-04) — this is the actual Play Console upload date.*
 
 ```
 • Set row column headers no longer cut off at large font sizes.
@@ -38,11 +40,12 @@ Flat bullets, almost curt, professional. It reads like a developer's release log
 • The PR badge on the workout summary now stays inside the exercise card at large font sizes.
 • Fixed the My Workouts, History and Exercises titles stacking one letter per line at large font sizes.
 • Fixed the app name eyebrow text wrapping to three lines at large font sizes.
+• Full changelog: https://the-converter-523.github.io/aim-lift-legal/CHANGELOG
 ```
 
 ---
 
-## versionCode 8 — 2026-08-04
+## versionCode 8 — 2026-08-04 (closeout date, not a verified upload timestamp)
 
 *Round: `bug-settings-scrollbar-large-font`. Closed testing - Alpha, third in-window update. Fork: RELEASE NOW.*
 
@@ -54,7 +57,7 @@ Flat bullets, almost curt, professional. It reads like a developer's release log
 
 ---
 
-## versionCode 7 — 2026-08-03
+## versionCode 7 — 2026-08-03 (closeout date, not a verified upload timestamp)
 
 *Round: `round2-dark-themes-and-view-workout`. Closed testing - Alpha, second in-window update. Fork: RELEASE NOW.*
 
@@ -70,7 +73,7 @@ completing a split workout.
 
 ---
 
-## versionCode 6 — 2026-08-03
+## versionCode 6 — 2026-08-03 (closeout date, not a verified upload timestamp)
 
 *Round: `round1-active-workout-polish` (+ the Finish-button follow-ups). Closed testing - Alpha, first in-window update.*
 
@@ -85,7 +88,7 @@ completing a split workout.
 
 ---
 
-## versionCode 5 — 2026-08-02
+## versionCode 5 — 2026-08-02 (closeout date, not a verified upload timestamp)
 
 *Round: `app-check-lift-aab`. The first lift artifact carrying Firebase App Check; added to the Closed testing - Alpha track via "Add from library".*
 
