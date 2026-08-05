@@ -1,5 +1,11 @@
 # AIM Lift — Changelog
 
+## 1.0.0+10 — 2026-08-05
+
+- The Previous column in the active workout no longer cuts off values at large font sizes.
+- Weight, time and reps boxes no longer cut off what you entered at large font sizes.
+- Fixed the highlight on a selected value not covering the whole value at large font sizes.
+
 ## 1.0.0+9 — 2026-08-04
 
 - Set row column headers no longer cut off at large font sizes.
