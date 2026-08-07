@@ -1,5 +1,11 @@
 # AIM Lift — Changelog
 
+## 1.0.0+11 — 2026-08-07
+
+- Renamed the My Workouts tab to My Splits.
+- The Cancel Workout button in the active workout is now smaller and less prominent.
+- Button and badge outlines are now more visible on the light themes.
+
 ## 1.0.0+10 — 2026-08-05
 
 - The Previous column in the active workout no longer cuts off values at large font sizes.
