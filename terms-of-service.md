@@ -2,7 +2,7 @@
 
 **Last updated:** July 22, 2026
 
-Welcome to AIM Lift ("the App"), developed by Meticulous Otter Waffle ("we," "us," "our"). By downloading, installing, or using the App, you agree to these Terms of Service.
+Welcome to AIM Lift ("the App"), developed by AIM Dev Labs ("we," "us," "our"). By downloading, installing, or using the App, you agree to these Terms of Service.
 
 ## Use of the App
 
@@ -33,7 +33,7 @@ The App is provided "as is" without warranties of any kind, express or implied. 
 
 ## Limitation of Liability
 
-To the fullest extent permitted by law, Meticulous Otter Waffle is not liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to injury sustained while exercising.
+To the fullest extent permitted by law, AIM Dev Labs is not liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to injury sustained while exercising.
 
 ## Changes to These Terms
 
