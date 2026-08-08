@@ -2,7 +2,7 @@
 
 **Last updated:** July 29, 2026
 
-AIM Lift ("the App") is developed by Meticulous Otter Waffle ("we," "us," "our"). This policy explains what information the App collects, how it's used, and your choices.
+AIM Lift ("the App") is developed by AIM Dev Labs ("we," "us," "our"). This policy explains what information the App collects, how it's used, and your choices.
 
 ## Information We Collect
 
