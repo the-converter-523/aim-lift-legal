@@ -1,5 +1,12 @@
 # AIM Lift — Changelog
 
+## 1.0.0+12 — 2026-08-10
+
+- New Analytics screen for each exercise: weight, volume and estimated 1RM over time, plus a personal records timeline.
+- Open it from the Analytics button on an exercise, or from Analytics on the History tab.
+- Records are now part of Analytics.
+- History and Analytics load their data more efficiently. Little difference at small history sizes; more as your history grows.
+
 ## 1.0.0+11 — 2026-08-07
 
 - Renamed the My Workouts tab to My Splits.
