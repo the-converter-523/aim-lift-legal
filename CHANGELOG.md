@@ -1,5 +1,9 @@
 # AIM Lift — Changelog
 
+## 1.0.0+15 — 2026-08-12
+
+- 16 KB library update for newer Android devices.
+
 ## 1.0.0+13 — 2026-08-12
 
 - Workout summary copy change.
