@@ -1,5 +1,10 @@
 # AIM Lift — Changelog
 
+## 1.0.0+13 — 2026-08-12
+
+- Workout summary copy change.
+- Layout fixes for phones running Android 15 and 16.
+
 ## 1.0.0+12 — 2026-08-10
 
 - New Analytics screen for each exercise: weight, volume and estimated 1RM over time, plus a personal records timeline.
