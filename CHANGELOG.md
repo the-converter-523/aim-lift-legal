@@ -1,5 +1,16 @@
 # AIM Lift — Changelog
 
+## 1.0.0+16 — 2026-08-14
+
+- Today's Session card now shows a 7-day split progress line with day numbers.
+- The Start button now names the day and workout it starts.
+- The workout-complete card now names the workout and day completed.
+- "Program new split" moved below the progress line.
+- Recent Workouts removed from Home.
+- Analytics now opens from a card on Home, not a button on History.
+- Changing a set to a warmup now clears its PR badge.
+- Privacy Policy and Terms of Service links added to Settings → Privacy.
+
 ## 1.0.0+15 — 2026-08-12
 
 - 16 KB library update for newer Android devices.
