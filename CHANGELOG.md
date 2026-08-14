@@ -1,5 +1,12 @@
 # AIM Lift — Changelog
 
+## 1.0.0+17 — 2026-08-14
+
+- Create Split now stays disabled until the split has a name.
+- "Choose a Split" now explains when a split has no workouts yet, instead of saying none exist.
+- History cards now read "1 set" instead of "1 sets".
+- Signing in now points at the field that needs fixing when an email or password is missing, mistyped or too short.
+
 ## 1.0.0+16 — 2026-08-14
 
 - Today's Session card now shows a 7-day split progress line with day numbers.
