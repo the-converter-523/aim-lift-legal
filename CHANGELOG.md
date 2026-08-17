@@ -1,5 +1,15 @@
 # AIM Lift — Changelog
 
+## 1.0.0+18 — 2026-08-16
+
+- Completed days on the Split Progress line now show a workout icon.
+- Today's dot now shows a stopwatch while that day's split workout is running.
+- Today's dot is now larger once that day is complete.
+- Programming a new split no longer shows the previous split's days on the progress line.
+- Undo Rest Day is now a button.
+- Exercises tab is now Analytics.
+- Exercise Library now opens from a button on Analytics, not its own tab.
+
 ## 1.0.0+17 — 2026-08-14
 
 - Create Split now stays disabled until the split has a name.
