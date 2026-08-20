@@ -1,5 +1,14 @@
 # AIM Lift — Changelog
 
+## 1.0.0+21 — 2026-08-20
+
+- Behind-the-scenes: added usage analytics (anonymous, no personal data collected).
+- New: an "About the app" screen in Settings, with a note from the developer and a link to the full changelog.
+- Behind-the-scenes: sync efficiency and reliability improvements.
+- Fixed: the Analytics screen could show outdated exercise info after editing or deleting a workout.
+- Fixed: a very long note could make parts of the workout screen impossible to scroll.
+- Fixed: the app icon was clipped/cut off on some launchers.
+
 ## 1.0.0+18 — 2026-08-16
 
 - Completed days on the Split Progress line now show a workout icon.
