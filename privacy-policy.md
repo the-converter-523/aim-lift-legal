@@ -1,6 +1,6 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** August 8, 2026
+**Last updated:** August 24, 2026
 
 AIM Lift ("the App") is developed by AIM Dev Labs ("we," "us," "our"). This policy explains what information the App collects, how it's used, and your choices.
 
@@ -58,4 +58,4 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## Contact Us
 
-Questions about this policy? Contact us at **aimappsupport@gmail.com**.
+Questions about this policy? Contact us at [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
