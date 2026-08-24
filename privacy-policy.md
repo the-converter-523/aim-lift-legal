@@ -58,4 +58,5 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## Contact Us
 
-Questions about this policy? Contact us at [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
+Questions about this policy? Contact us at:<br>
+[app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
