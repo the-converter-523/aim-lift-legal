@@ -1,6 +1,6 @@
 # Terms of Service for AIM Lift
 
-**Last updated:** August 8, 2026
+**Last updated:** August 24, 2026
 
 Welcome to AIM Lift ("the App"), developed by AIM Dev Labs ("we," "us," "our"). By downloading, installing, or using the App, you agree to these Terms of Service.
 
@@ -41,4 +41,4 @@ We may update these Terms from time to time. Continued use of the App after chan
 
 ## Contact Us
 
-Questions about these Terms? Contact us at **aimappsupport@gmail.com**.
+Questions about these Terms? Contact us at [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
