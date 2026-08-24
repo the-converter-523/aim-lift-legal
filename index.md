@@ -5,4 +5,5 @@
 - [Delete Your Account](./delete-account)
 - [Release Notes](./CHANGELOG)
 
-Questions? Contact us at [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
+Questions? Contact us at:<br>
+[app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).

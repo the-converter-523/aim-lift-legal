@@ -32,4 +32,5 @@ Account deletion takes effect **immediately** and **cannot be undone**. Once you
 
 ## Contact Us
 
-Questions about account deletion? Contact us at [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
+Questions about account deletion? Contact us at:<br>
+[app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).

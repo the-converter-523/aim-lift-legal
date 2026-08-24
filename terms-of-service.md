@@ -41,4 +41,5 @@ We may update these Terms from time to time. Continued use of the App after chan
 
 ## Contact Us
 
-Questions about these Terms? Contact us at [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
+Questions about these Terms? Contact us at:<br>
+[app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).
