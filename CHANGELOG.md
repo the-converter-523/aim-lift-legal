@@ -1,5 +1,14 @@
 # AIM Lift — Changelog
 
+## 1.0.0+22 — 2026-08-24
+
+- Behind-the-scenes: better diagnostics for account restore and sync issues.
+- Fixed: tapping near the "Crash and usage data" switch in Settings could toggle it by accident.
+- The checkmark for logging a set is bigger and easier to hit mid-workout.
+- Removing a set has moved: tap the set number, next to the set types.
+- Personal records get a star flash and a highlighted row; the checkmark looks fresher.
+- Swipe a set right to log it, left to remove it — Remove set is still in the menu too.
+
 ## 1.0.0+21 — 2026-08-20
 
 - Behind-the-scenes: added usage analytics (anonymous, no personal data collected).
