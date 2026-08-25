@@ -1,5 +1,11 @@
 # AIM Lift — Changelog
 
+## 1.0.1+23 — 2026-08-25
+
+- Fixed an issue with email sign-up.
+- Google sign-up no longer risks pre-signup data.
+- Fixed a bug where diagnostic data could be sent very briefly before the privacy prompt was answered.
+
 ## 1.0.0+22 — 2026-08-24
 
 - Behind-the-scenes: better diagnostics for account restore and sync issues.
