@@ -1,6 +1,6 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** August 24, 2026
+**Last updated:** August 25, 2026
 
 AIM Lift ("the App") is developed by AIM Dev Labs ("we," "us," "our"). This policy explains what information the App collects, how it's used, and your choices.
 
@@ -28,7 +28,7 @@ The App uses Firebase Analytics to help us understand how the App is used (such 
 
 ## Your Choice About Diagnostics
 
-The first time you open AIM Lift, we ask whether you're happy for us to collect crash reports and usage data, tied to your installation, to help us find and fix more serious bugs. Nothing is collected until you answer — if you decline, or before you've answered, both crash reporting and usage analytics stay switched off.
+The first time you open AIM Lift, we ask whether you're happy for us to collect crash reports and usage data, tied to your installation, to help us find and fix more serious bugs. If you decline, or before you've answered, we do not collect any crash report or usage analytics content. (A brief technical "app opened" signal, containing no crash or usage details, can be sent by our crash-reporting provider in the moment before your answer takes effect — we're closing this gap in an upcoming update.)
 
 This data is never sold, never used for advertising, and never includes your workout details.
 
