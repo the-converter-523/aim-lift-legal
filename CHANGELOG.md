@@ -1,5 +1,12 @@
 # AIM Lift — Changelog
 
+## 1.0.1+24 — 2026-08-27
+
+- Under-the-hood technical update for Google Play compliance.
+- "Custom Workouts" are now called Routines.
+- Some navigation changes in My Splits.
+- Dragging a split in My Splits no longer disturbs its routines on screen.
+
 ## 1.0.1+23 — 2026-08-25
 
 - Fixed an issue with email sign-up.
