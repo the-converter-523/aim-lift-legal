@@ -1,0 +1,28 @@
+name: Publish changelog
+
+# Manual trigger only — run from the GitHub mobile app: Actions tab → this
+# workflow → Run workflow. Merges the "pending" branch (where PSC stages the
+# next changelog entry when an AAB ships) into "main", which is what the
+# public site serves.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Merge pending into main
+        run: |
+          git config user.name "aim-lift-legal-bot"
+          git config user.email "actions@github.com"
+          git checkout main
+          git merge origin/pending --no-edit
+          git push origin main
