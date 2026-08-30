@@ -131,3 +131,4 @@
 ## 1.0.0+4 — date not recorded
 
 - No release notes recorded for this version.
+.
