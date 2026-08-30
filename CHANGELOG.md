@@ -1,5 +1,16 @@
 # AIM Lift — Changelog
 
+## 1.1.0+25 — 2026-08-30
+
+- Split day-number labels no longer clip at large font sizes.
+- Settings reorganized; last section is now "Privacy & About".
+- Sign-in button fully visible on every theme.
+- My Splits: routine cards get a Move/Edit/Delete menu, not a trash icon.
+- Quick Start no longer affects the Today's Session card.
+- Profile name now saves reliably however you close the sheet.
+- Settings toggles no longer stutter when tapped.
+- Settings from Profile now slides up instead of in from the side.
+
 ## 1.0.1+24 — 2026-08-27
 
 - Under-the-hood technical update for Google Play compliance.
