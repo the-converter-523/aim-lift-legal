@@ -1,6 +1,6 @@
 # AIM Lift — Changelog
 
-## 1.1.1+26 — 2026-09-02
+## 1.1.1+27 — 2026-09-02
 
 - Fixed several unit-conversion syncing issues, including one that could show past workout weights incorrectly after a switch.
 - Fixed a crash that could occur when leaving a workout detail screen.
