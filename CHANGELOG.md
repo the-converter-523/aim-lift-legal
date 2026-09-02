@@ -1,5 +1,11 @@
 # AIM Lift — Changelog
 
+## 1.1.1+27 — 2026-09-02
+
+- Fixed several unit-conversion syncing issues, including one that could show past workout weights incorrectly after a switch.
+- Fixed a crash that could occur when leaving a workout detail screen.
+- Various smaller stability and accuracy fixes (exercise library, Analytics).
+
 ## 1.1.0+25 — 2026-08-30
 
 - Split day-number labels no longer clip at large font sizes.
