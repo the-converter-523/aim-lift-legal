@@ -2,28 +2,28 @@
 
 ## 1.2.0+28 — Sep 5, 2026
 
-- Added a 30-day safety window to the account deletion process. You can now sign back in during this window in order to fully restore your account and all of its data.
-- Added a "Change Password" function in Settings -> Account.
-- Fixed a small issue related to past days in "Today's Session".
-- Added an edit button to the header of the active workout screen for changing the workout name.
-- Fixed an issue where deleting your account could discard workouts that hadn't finished syncing yet.
+- Added a 30-day safety window to the account deletion process. You can now sign back in during this window in order to fully restore your account and all of its data
+- Added a "Change Password" function in Settings -> Account
+- Fixed a small issue related to past days in "Today's Session"
+- Added an edit button to the header of the active workout screen for changing the workout name
+- Fixed an issue where deleting your account could discard workouts that hadn't finished syncing yet
 
 ## 1.1.1+27 — 2026-09-02
 
-- Fixed several unit-conversion syncing issues, including one that could show past workout weights incorrectly after a switch.
-- Fixed a crash that could occur when leaving a workout detail screen.
-- Various smaller stability and accuracy fixes (exercise library, Analytics).
+- Fixed several unit-conversion syncing issues, including one that could show past workout weights incorrectly after a switch
+- Fixed a crash that could occur when leaving a workout detail screen
+- Various smaller stability and accuracy fixes (exercise library, Analytics)
 
 ## 1.1.0+25 — 2026-08-30
 
-- Split day-number labels no longer clip at large font sizes.
-- Settings reorganized; last section is now "Privacy & About".
-- Sign-in button fully visible on every theme.
-- My Splits: routine cards get a Move/Edit/Delete menu, not a trash icon.
-- Quick Start no longer affects the Today's Session card.
-- Profile name now saves reliably however you close the sheet.
-- Settings toggles no longer stutter when tapped.
-- Settings from Profile now slides up instead of in from the side.
+- Split day-number labels no longer clip at large font sizes
+- Settings reorganized; last section is now "Privacy & About"
+- Sign-in button fully visible on every theme
+- My Splits: routine cards get a Move/Edit/Delete menu, not a trash icon
+- Quick Start no longer affects the Today's Session card
+- Profile name now saves reliably however you close the sheet
+- Settings toggles no longer stutter when tapped
+- Settings from Profile now slides up instead of in from the side
 
 ## 1.0.1+24 — 2026-08-27
 
