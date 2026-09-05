@@ -1,6 +1,6 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** August 25, 2026
+**Last updated:** September 5, 2026
 
 AIM Lift ("the App") is developed by AIM Dev Labs ("we," "us," "our"). This policy explains what information the App collects, how it's used, and your choices.
 
@@ -37,7 +37,7 @@ You can change your mind at any time in Settings → Privacy → Crash and usage
 ## Your Choices and Rights
 
 - **Access/export:** You can view all your data within the App at any time.
-- **Deletion:** You can delete your account and all associated data at any time from Settings → Account → Delete Account. This permanently removes your data from our systems.
+- **Deletion:** You can delete your account at any time from Settings → Account → Delete Account. Deleting signs you out immediately. For 30 days afterward, your data is held and can be recovered simply by signing back in. After 30 days, your account and all associated data are permanently removed from our systems. Want it gone sooner? See [Delete Your Account](delete-account.md) or contact us directly.
 - **Anonymous use:** You are never required to create an account to use the App's core features.
 
 ## Data Security
