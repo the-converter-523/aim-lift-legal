@@ -1,4 +1,4 @@
-# AIM Lift — Legal
+# AIM Lift
 
 - [Privacy Policy](./privacy-policy)
 - [Terms of Service](./terms-of-service)

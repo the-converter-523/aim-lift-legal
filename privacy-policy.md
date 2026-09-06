@@ -1,8 +1,8 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** September 5, 2026
+**Last updated:** September 7, 2026
 
-AIM Lift ("the App") is developed by AIM Dev Labs ("we," "us," "our"). This policy explains what information the App collects, how it's used, and your choices.
+AIM Lift ("the App") is developed by AIM Dev Labs ("we," "us," "our"), based in California, USA. This policy explains what information the App collects, how it's used, and your choices.
 
 ## Information We Collect
 
@@ -39,6 +39,26 @@ You can change your mind at any time in Settings → Privacy → Crash and usage
 - **Access/export:** You can view all your data within the App at any time.
 - **Deletion:** You can delete your account at any time from Settings → Account → Delete Account. Deleting signs you out immediately. For 30 days afterward, your data is held and can be recovered simply by signing back in. After 30 days, your account and all associated data are permanently removed from our systems. Want it gone sooner? See [Delete Your Account](delete-account.md) or contact us directly.
 - **Anonymous use:** You are never required to create an account to use the App's core features.
+
+## For Users in the European Economic Area, UK, or Switzerland
+
+If you're located in these regions, the following applies in addition to the rest of this policy:
+
+- **Legal basis for processing:** we process account and workout data to perform our contract with you (providing the App's functionality), and diagnostic data only with your consent (see "Your Choice About Diagnostics" above).
+- **International transfers:** your data may be stored and processed in the United States via Google Firebase. Firebase maintains standard contractual clauses and other safeguards for these transfers — see the Firebase privacy link above for details.
+- **Your rights:** in addition to the rights listed under "Your Choices and Rights," you have the right to lodge a complaint with your local data protection supervisory authority at any time.
+- We do not currently have a designated EU representative. If this becomes a legal requirement for our user base, we will add one and update this policy.
+
+## For California Residents
+
+Under the California Consumer Privacy Act (CCPA/CPRA), California residents have the right to:
+
+- **Know** what personal information we collect and how it's used (see "Information We Collect" and "How We Use Your Information" above).
+- **Delete** their personal information (see "Your Choices and Rights" above).
+- **Correct** inaccurate personal information we hold about you.
+- **Opt out of the sale or sharing** of personal information — we do not sell or share your personal information, so there is nothing to opt out of.
+
+To exercise any of these rights, contact us at the address below.
 
 ## Data Security
 
