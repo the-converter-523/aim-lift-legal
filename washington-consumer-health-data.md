@@ -6,6 +6,8 @@ This policy describes how AIM Lift collects, uses, and shares consumer health da
 
 **Categories of consumer health data collected:** exercise and workout data (exercises performed, sets, reps, weight lifted, recorded times of duration-based exercises, workout duration), and any and all information you choose to include in free-text fields, which may include health-related information. Free-text fields include but are not limited to workout names and notes, notes on exercises within a recorded workout, routine names and notes, split names, custom exercise names and descriptions, and your profile display name.
 
+**Source of consumer health data:** collected directly from you, through your use of the app.
+
 **Purpose of collection:** to provide the app's core tracking and cloud sync functionality.
 
 **Third parties we share data with:** Firebase (Google Cloud) — used for account authentication, data storage and sync, analytics, and crash reporting. No other third party receives your data.
