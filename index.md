@@ -1,7 +1,8 @@
-# AIM Lift — Legal
+# AIM Lift
 
 - [Privacy Policy](./privacy-policy)
 - [Terms of Service](./terms-of-service)
+- [Washington Consumer Health Data Privacy Policy](./washington-consumer-health-data)
 - [Delete Your Account](./delete-account)
 - [Release Notes](./CHANGELOG)
 
