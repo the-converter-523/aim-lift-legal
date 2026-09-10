@@ -1,8 +1,8 @@
 # Terms of Service for AIM Lift
 
-**Last updated:** September 7, 2026
+**Last updated:** September 10, 2026
 
-Welcome to AIM Lift ("the App"), developed by AIM Dev Labs ("we," "us," "our"), based in California, USA. By downloading, installing, or using the App, you agree to these Terms of Service.
+Welcome to AIM Lift ("the App"), developed and operated by an independent individual developer ("we," "us," "our"), not a company. By downloading, installing, or using the App, you agree to these Terms of Service.
 
 ## Use of the App
 
@@ -33,11 +33,11 @@ The App is provided "as is" without warranties of any kind, express or implied. 
 
 ## Limitation of Liability
 
-To the fullest extent permitted by law, AIM Dev Labs is not liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to injury sustained while exercising.
+To the fullest extent permitted by law, we are not liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to injury sustained while exercising.
 
 ## Indemnification
 
-You agree to indemnify and hold AIM Dev Labs harmless from any claims, damages, or expenses (including reasonable legal fees) arising from your use of the App, your violation of these Terms, or your violation of any rights of another party.
+You agree to indemnify and hold us harmless from any claims, damages, or expenses (including reasonable legal fees) arising from your use of the App, your violation of these Terms, or your violation of any rights of another party.
 
 ## Governing Law
 
