@@ -4,7 +4,7 @@
 
 This policy describes how AIM Lift collects, uses, and shares consumer health data, as required by the Washington My Health My Data Act (RCW 19.373).
 
-**Categories of consumer health data collected:** exercise and workout data (exercises performed, sets, reps, weight lifted, recorded times of duration-only exercises, workout duration), and any and all information you choose to include in free-text notes fields (workout notes, exercise notes, routine notes), which may include health-related information.
+**Categories of consumer health data collected:** exercise and workout data (exercises performed, sets, reps, weight lifted, recorded times of duration-only exercises, workout duration), and any and all information you choose to include in free-text fields, which may include health-related information. Free-text fields include but are not limited to workout names and notes, notes on exercises within a recorded workout, routine names and notes, split names, custom exercise names and descriptions, and your profile display name.
 
 **Purpose of collection:** to provide the app's core tracking and cloud sync functionality.
 

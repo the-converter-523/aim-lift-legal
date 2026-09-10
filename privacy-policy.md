@@ -4,13 +4,15 @@
 
 AIM Lift ("the App") is developed and operated by an independent individual developer ("we," "us," "our"), not a company. This policy explains what information the App collects, how it's used, and your choices.
 
-**Using AIM Lift without an account holds all entered data strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and nothing described in this policy is collected or leaves your device unless and until you do.** Creating an account is voluntary. Once created, your data syncs to the cloud automatically; at that point, the only way to stop collection is through account deletion (see "Your Choices and Rights" below).
+**Using AIM Lift without an account holds all workout data you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and no workout data is collected or leaves your device unless and until you do.** Creating an account is voluntary. Once created, your data syncs to the cloud automatically; at that point, the only way to stop collection is through account deletion (see "Your Choices and Rights" below). The one exception is diagnostic data: if you agree to crash and usage reporting when first asked, that is collected whether or not you have an account. See "Your Choice About Diagnostics" below.
 
 ## Information We Collect
 
 **Account information.** If you create an account, we collect your email address (or Google account info if you sign in with Google), and an optional display name and profile photo.
 
 **Workout data.** The App stores the workout information you enter: exercises, sets, reps, weights, workout history, personal records, body measurements, and your unit preference (metric/imperial). This data is stored on your device and, if you have an account, synced securely to our cloud database (Google Firebase/Firestore) so it's available across devices and backed up.
+
+**Notes and free-text fields.** AIM Lift has several places where you can enter free text, including but not limited to: workout names, workout notes, notes on exercises within a recorded workout, routine names, routine notes, split names, custom exercise names, custom exercise descriptions, and your profile display name. Whatever you type is stored as written and synced to your account. We do not analyze the content of these fields. Do not enter **ANY** information you would not want stored, including medical conditions, diagnoses, medications, treatment history, or anything else you would prefer not to have stored.
 
 **We do not collect:** your location, contacts, camera/microphone access, or any data beyond what's described above.
 
@@ -20,7 +22,7 @@ AIM Lift ("the App") is developed and operated by an independent individual deve
 - To let you sign in and access your data across devices
 - To respond to support requests
 
-We do not sell your data. We do not use your data for advertising. We do not share your data with third parties except as required to operate the App itself (see "Third-Party Services" below).
+We do not sell your data. We do not use your data for advertising. We do not share your data with third parties except as required to operate the App itself (see "Third-Party Services" below), or where we are required to do so by law, legal process, or a valid request from a government or law enforcement authority.
 
 ## Third-Party Services
 
@@ -41,6 +43,7 @@ You can change your mind at any time in Settings → Privacy → Crash and usage
 - **Access/export:** You can view all your data within the App at any time.
 - **Deletion:** You can delete your account at any time from Settings → Account → Delete Account. Deleting signs you out immediately. For 30 days afterward, your data is held and can be recovered simply by signing back in. After 30 days, your account and all associated data are permanently removed from our systems. Want it gone sooner? See [Delete Your Account](delete-account.md) or contact us directly.
 - **Anonymous use:** You are never required to create an account to use the App's core features.
+- **Do Not Track:** some browsers and devices transmit "Do Not Track" signals. The App does not track you across third-party services, and does not respond to these signals.
 
 ## For Users in the European Economic Area, UK, or Switzerland
 
@@ -62,6 +65,21 @@ Under the California Consumer Privacy Act (CCPA/CPRA), California residents have
 
 To exercise any of these rights, contact us at the address below.
 
+## For Nevada Residents
+
+Nevada law (NRS 603A.400 to 603A.560) gives Nevada consumers specific rights regarding consumer health data.
+
+- **Categories of consumer health data we collect:** exercise and workout data (exercises performed, sets, reps, weight lifted, recorded times for duration-based exercises, workout duration), and any information you choose to enter into free-text fields, which may include health-related information.
+- **Purpose:** to provide the App's core tracking and cloud sync functionality.
+- **Sources:** all consumer health data comes directly from you, entered by you in the App.
+- **Who we share it with:** Google Firebase, for authentication, storage, sync, analytics, and crash reporting. No other third party receives it.
+- **We do not sell consumer health data.**
+- **Your rights:** you may withdraw consent and request deletion of your consumer health data by deleting your account in the App, or by contacting us at the address below.
+
+## For Connecticut Residents
+
+The disclosures in the Nevada section above apply equally to Connecticut residents under the Connecticut Data Privacy Act. In addition, Connecticut residents may request access to, correction of, deletion of, or a portable copy of their personal data by contacting us at the address below. We do not sell personal data, do not use it for targeted advertising, and do not use it for profiling.
+
 ## For Washington Residents
 
 If you're located in Washington State, we maintain a separate **[Washington Consumer Health Data Privacy Policy](./washington-consumer-health-data)**, as required by the Washington My Health My Data Act (RCW 19.373). That document, not this one, governs our collection, use, and sharing of your consumer health data.
@@ -72,7 +90,7 @@ We use industry-standard security practices (including Firebase's built-in secur
 
 ## Children's Privacy
 
-The App is not directed at children under 13, and we do not knowingly collect information from children under 13.
+The App is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you have any knowledge or suspicion that a child under the age of 13 has entered personal information into AIM Lift, please [contact us](mailto:app-support@aimdevlabs.com) for assistance in deleting the information.
 
 ## Health & Fitness Disclaimer
 
