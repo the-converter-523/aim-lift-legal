@@ -1,6 +1,6 @@
 # Delete Your AIM Lift Account
 
-**Last updated:** September 5, 2026
+**Last updated:** September 11, 2026
 
 You can delete your AIM Lift account and all associated data at any time, directly from within the App.
 
@@ -32,7 +32,7 @@ This is a full cascade deletion — every piece of data tied to your account is 
 
 ## Want It Gone Immediately?
 
-The 30-day window is a safety precaution. If you simply must have all of your data gone from existence before the 30 days pass, do not hesitate to email us at [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com). Our admins would be delighted to assist you in this process, including providing every possible assurance that it was completed successfully.
+The 30-day window is a safety precaution. If you simply must have all of your data gone from existence before the 30 days pass, do not hesitate to send an email to [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com). I would be happy to assist you in this process, including providing every possible assurance that it was completed successfully.
 
 ## Contact Us
 
