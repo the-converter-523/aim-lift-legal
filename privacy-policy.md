@@ -1,6 +1,6 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** September 10, 2026
+**Last updated:** September 11, 2026
 
 AIM Lift ("the App") is developed and operated by an independent individual developer ("we," "us," "our"), not a company. This policy explains what information the App collects, how it's used, and your choices.
 
@@ -10,7 +10,7 @@ AIM Lift ("the App") is developed and operated by an independent individual deve
 
 **Account information.** If you create an account, we collect your email address (or Google account info if you sign in with Google), and an optional display name and profile photo.
 
-**Workout data.** The App stores the workout information you enter: exercises, sets, reps, weights, workout history, personal records, body measurements, and your unit preference (metric/imperial). This data is stored on your device and, if you have an account, synced securely to our cloud database (Google Firebase/Firestore) so it's available across devices and backed up.
+**Workout data.** The App stores the workout information you enter: exercises, sets, reps, weights, workout history, personal records, and your unit preference (metric/imperial). This data is stored on your device and, if you have an account, synced securely to our cloud database (Google Firebase/Firestore) so it's available across devices and backed up.
 
 **Notes and free-text fields.** AIM Lift has several places where you can enter free text, including but not limited to: workout names, workout notes, notes on exercises within a recorded workout, routine names, routine notes, split names, custom exercise names, custom exercise descriptions, and your profile display name. Whatever you type is stored as written and synced to your account. We do not analyze the content of these fields. Do not enter **ANY** information you would not want stored, including medical conditions, diagnoses, medications, treatment history, or anything else you would prefer not to have stored.
 
@@ -78,7 +78,7 @@ Nevada law (NRS 603A.400 to 603A.560) gives Nevada consumers specific rights reg
 
 ## For Connecticut Residents
 
-The disclosures in the Nevada section above apply equally to Connecticut residents under the Connecticut Data Privacy Act. In addition, Connecticut residents may request access to, correction of, deletion of, or a portable copy of their personal data by contacting us at the address below. We do not sell personal data, do not use it for targeted advertising, and do not use it for profiling.
+The disclosures in the Nevada section above apply equally to Connecticut residents under the Connecticut Data Privacy Act. In addition, Connecticut residents may request access to, correction of, or deletion of their personal data by submitting a request to the address below. All of your personal data is available for manual export on request. We do not sell personal data, do not use it for targeted advertising, and do not use it for profiling.
 
 ## For Washington Residents
 
