@@ -1,5 +1,14 @@
 # AIM Lift — Changelog
 
+## 1.3.0+29 — Sep 11, 2026
+
+- Resized the Edit "pencil" icon (for renaming) in Active Workout
+- Added Green (Light) and Green (Dark) themes
+- Added a Cloud Status row in Settings to show cloud sync status
+- Fixed sync failures that could hang silently instead of being caught
+- Sign-in now requires agreeing to the Terms of Service, Privacy Policy, and indicating age 13+ status
+- Fixed the "Password updated" confirmation not showing after a password change
+
 ## 1.2.0+28 — Sep 5, 2026
 
 - Added a 30-day safety window to the account deletion process. You can now sign back in during this window in order to fully restore your account and all of its data
