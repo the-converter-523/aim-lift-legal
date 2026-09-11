@@ -1,12 +1,12 @@
 # Terms of Service for AIM Lift
 
-**Last updated:** September 10, 2026
+**Last updated:** September 11, 2026
 
-Welcome to AIM Lift ("the App"), developed and operated by an independent individual developer ("we," "us," "our"), not a company. By downloading, installing, or using the App, you agree to these Terms of Service.
+Welcome to AIM Lift ("the App"), developed and operated by an independent individual developer ("we," "us," "our"), not a company. By creating an account, you confirm that you accept these Terms of Service and our Privacy Policy. If you use the App without an account, your use of the App is also subject to these Terms.
 
 ## Use of the App
 
-AIM Lift is a workout tracking application. You may use it to log, track, and review your exercise activity. You must be at least 13 years old to use the App.
+AIM Lift is a workout tracking application. You may use it to log, track, and review your exercise activity. You must be at least 13 years old to use the App, and by creating an account you confirm that you are.
 
 You are responsible for maintaining the accuracy of the information you enter and for keeping your account credentials secure.
 
