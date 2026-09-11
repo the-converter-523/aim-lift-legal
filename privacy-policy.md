@@ -4,7 +4,7 @@
 
 AIM Lift ("the App") is developed and operated by an independent individual developer ("we," "us," "our"), not a company. This policy explains what information the App collects, how it's used, and your choices.
 
-**Using AIM Lift without an account holds all workout data you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and no workout data is collected or leaves your device unless and until you complete the account creation process.** Creating an account is voluntary. Once created, your data syncs to the cloud automatically; at that point, the only way to stop collection is through account deletion (see "Your Choices and Rights" below). The one exception is diagnostic data: if you agree to crash and usage reporting when first asked, that is collected whether or not you have an account. See "Your Choice About Diagnostics" below.
+**Using AIM Lift without an account holds all workout data you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and no workout data is collected or leaves your device unless and until you complete the account creation process.** **Creating an account is 100% voluntary.** Once created, your data syncs to the cloud automatically; at that point, the only way to stop collection is through account deletion (see "Your Choices and Rights" below). The one exception is diagnostic data: if you agree to crash and usage reporting when first asked, that is collected whether or not you have an account. See "Your Choice About Diagnostics" below.
 
 ## Information We Collect
 
