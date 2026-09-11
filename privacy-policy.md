@@ -30,6 +30,10 @@ The App uses **Google Firebase** for authentication and data storage. Firebase's
 
 The App uses Firebase Analytics to help us understand how the App is used (such as which screens are visited and which features are used) and Firebase Crashlytics to detect and diagnose crashes. Crash reports are tied to an internal identifier for your installation so we can look into and fix issues affecting specific users, but never include your name, email, or workout details.
 
+## Links to Other Sites
+
+The App contains external links to sites besides the App's own legal or support pages. These sites are operated by others, not us, and this policy does not cover them. At your own discretion, review the privacy policies of any of these third party sites before providing any information.
+
 ## Your Choice About Diagnostics
 
 The first time you open AIM Lift, we ask whether you're happy for us to collect crash reports and usage data, tied to your installation, to help us find and fix more serious bugs. Nothing is collected until you answer — if you decline, or before you've answered, both crash reporting and usage analytics stay switched off.
