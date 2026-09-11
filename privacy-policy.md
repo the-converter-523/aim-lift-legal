@@ -8,7 +8,7 @@ AIM Lift ("the App") is developed and operated by an independent individual deve
 
 ## Information We Collect
 
-**Account information.** If you create an account, we collect your email address (or Google account info if you sign in with Google), and an optional display name and profile photo.
+**Account information.** With any kind of account you create, your email address is synced to the AIM Lift cloud. If you create a Google authorized account, a link to your Google profile picture is also synced to the AIM Lift cloud (this is provided automatically as part of Google's sign-in process, not something we separately request).
 
 **Workout data.** The App stores the workout information you enter: exercises, sets, reps, weights, workout history, personal records, and your unit preference (metric/imperial). This data is stored on your device and, if you have an account, synced securely to our cloud database (Google Firebase/Firestore) so it's available across devices and backed up.
 
