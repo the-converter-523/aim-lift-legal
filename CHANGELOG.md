@@ -1,5 +1,15 @@
 # AIM Lift — Changelog
 
+## 1.4.0+30 — Sep 13, 2026
+
+- Cloud Status moved to Account in Settings; tap it to retry sync
+- Sync now retries automatically when you return to the app
+- Profile icon shows a small dot when sync needs attention
+- New "Before You Continue" screen for Terms/Privacy agreement at sign-in
+- Crash and usage data now collected only while signed in
+- Removed the first-launch data popup and its Settings toggle
+- Sign-in card simplified: new header, no checkboxes
+
 ## 1.3.0+29 — Sep 11, 2026
 
 - Resized the Edit "pencil" icon (for renaming) in Active Workout
