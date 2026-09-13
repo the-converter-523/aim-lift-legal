@@ -1,10 +1,10 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** September 11, 2026
+**Last updated:** September 13, 2026
 
 AIM Lift ("the App") is developed and operated by an independent individual developer ("we," "us," "our"), not a company. This policy explains what information the App collects, how it's used, and your choices.
 
-**Using AIM Lift without an account holds all workout data that you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and no workout data is collected or leaves your device unless and until you complete the account creation process.** **Creating an account is 100% voluntary.** Once an account is created, all of your current and future data will be synced to the cloud automatically; at that point, the only way to stop collection is through account deletion (see "Your Choices and Rights" below). The one exception is diagnostic data: if you agree to crash and usage reporting when first asked, that is collected whether or not you have an account. See "Your Choice About Diagnostics" below.
+Using AIM Lift without an account holds all workout data that you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and nothing about your use of the App, including diagnostic data, is collected or leaves your device unless and until you complete the account creation process. Creating an account is 100% voluntary. Once an account is created, all of your current and future workout data is synced to the cloud automatically. Crash reports and usage analytics are collected as well. These help us fix any crashes that you might experience as well as monitor the general usage of app features. From this point of account creation, the only way to stop all collection is through account deletion (see "Your Choices and Rights" below).
 
 ## Information We Collect
 
@@ -34,14 +34,6 @@ The App uses Firebase Analytics to help us understand how the App is used (such 
 
 The App contains external links to sites besides the App's own legal or support pages. These sites are operated by others, not us, and this policy does not cover them. At your own discretion, review the privacy policies of any of these third party sites before providing any information.
 
-## Your Choice About Diagnostics
-
-The first time you open AIM Lift, we ask whether you're happy for us to collect crash reports and usage data, tied to your installation, to help us find and fix more serious bugs. Nothing is collected until you answer — if you decline, or before you've answered, both crash reporting and usage analytics stay switched off.
-
-This data is never sold, never used for advertising, and never includes your workout details.
-
-You can change your mind at any time in Settings → Privacy → Crash and usage data. Turning it off takes effect immediately; turning it back on does too. No restart needed.
-
 ## Your Choices and Rights
 
 - **Access/export:** You can view all your data within the App at any time.
@@ -53,7 +45,7 @@ You can change your mind at any time in Settings → Privacy → Crash and usage
 
 If you're located in these regions, the following applies in addition to the rest of this policy:
 
-- **Legal basis for processing:** we process account and workout data to perform our contract with you (providing the App's functionality), and diagnostic data only with your consent (see "Your Choice About Diagnostics" above).
+- **Legal basis for processing:** we process account and workout data to perform our contract with you (providing the App's functionality); diagnostic data is processed under that same consent, given when you create an account.
 - **International transfers:** your data may be stored and processed in the United States via Google Firebase. Firebase maintains standard contractual clauses and other safeguards for these transfers — see the Firebase privacy link above for details.
 - **Your rights:** in addition to the rights listed under "Your Choices and Rights," you have the right to lodge a complaint with your local data protection supervisory authority at any time.
 - We do not currently have a designated EU representative. If this becomes a legal requirement for our user base, we will add one and update this policy.
