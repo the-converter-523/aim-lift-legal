@@ -1,6 +1,6 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** September 13, 2026
+**Last updated:** September 21, 2026
 
 AIM Lift ("the App") is developed and operated by an independent individual developer ("we," "us," "our"), not a company. This policy explains what information the App collects, how it's used, and your choices.
 
@@ -13,6 +13,8 @@ Using AIM Lift without an account holds all workout data that you enter strictly
 **Workout data.** The App stores the workout information you enter: exercises, sets, reps, weights, workout history, personal records, and your unit preference (metric/imperial). This data is stored on your device and, if you have an account, synced securely to our cloud database (Google Firebase/Firestore) so it's available across devices and backed up.
 
 **Notes and free-text fields.** AIM Lift has several places where you can enter free text, including but not limited to: workout names, workout notes, notes on exercises within a recorded workout, routine names, routine notes, split names, custom exercise names, custom exercise descriptions, and your profile display name. Whatever you type is stored as written and synced to your account. We do not analyze the content of these fields. Do not enter **ANY** information you would not want stored, including medical conditions, diagnoses, medications, treatment history, or anything else you would prefer not to have stored.
+
+**App version.** If you have an account, the App stores its version number and build number with your account information, so we can see which version you are using when we help with support requests. This is deleted when your account is deleted.
 
 **We do not collect:** your location, contacts, camera/microphone access, or any data beyond what's described above.
 
