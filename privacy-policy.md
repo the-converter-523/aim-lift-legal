@@ -1,10 +1,10 @@
 # Privacy Policy for AIM Lift
 
-**Last updated:** September 21, 2026
+**Last updated:** September 22, 2026
 
 AIM Lift ("the App") is developed and operated by an independent individual developer ("we," "us," "our"), not a company. This policy explains what information the App collects, how it's used, and your choices.
 
-Using AIM Lift without an account holds all workout data that you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and nothing about your use of the App, including diagnostic data, is collected or leaves your device unless and until you complete the account creation process. Creating an account is 100% voluntary. Once an account is created, all of your current and future workout data is synced to the cloud automatically. Crash reports and usage analytics are collected as well. These help us fix any crashes that you might experience as well as monitor the general usage of app features. From this point of account creation, the only way to stop all collection is through account deletion (see "Your Choices and Rights" below).
+Using AIM Lift without an account holds all workout data that you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and nothing about your use of the App, including diagnostic data, is collected or leaves your device unless and until you complete the account creation process. Creating an account is 100% voluntary. Once an account is created, all of your current and future workout data is synced to the cloud automatically. Crash reports and usage analytics are collected as well. These help us fix any crashes that you might experience as well as monitor the general usage of app features. From this point of account creation, you can stop all data collection by signing out or by deleting your account in the App (see "Your Choices and Rights" below).
 
 ## Information We Collect
 
