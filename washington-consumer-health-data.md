@@ -1,6 +1,6 @@
 # Washington My Health My Data Act (RCW 19.373) — Consumer Health Data Privacy Policy
 
-**Effective date:** September 11, 2026
+**Effective date:** September 22, 2026
 
 This policy describes how AIM Lift collects, uses, and shares consumer health data, as required by the Washington My Health My Data Act (RCW 19.373).
 
