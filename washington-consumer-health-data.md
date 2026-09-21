@@ -16,6 +16,6 @@ This policy describes how AIM Lift collects, uses, and shares consumer health da
 
 **Data retention:** retained until account deletion; see our [account deletion process](delete-account.md).
 
-**Your rights:** you may withdraw consent and request deletion of your consumer health data by deleting your account in-app and/or contacting app-support@aimdevlabs.com.
+**Your rights:** you may withdraw consent by signing out or by deleting your account in-app, and/or by contacting app-support@aimdevlabs.com. You may request deletion of your consumer health data by deleting your account in-app and/or by contacting app-support@aimdevlabs.com. Signing out stops further collection but does not delete data already collected; deleting your account does.
 
 **How to exercise these rights:** see our [account deletion process](delete-account.md) and follow the instructions for in-app account deletion and/or send an email to [app-support@aimdevlabs.com](mailto:app-support@aimdevlabs.com).

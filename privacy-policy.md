@@ -4,7 +4,7 @@
 
 AIM Lift ("the App") is developed and operated by an independent individual developer ("we," "us," "our"), not a company. This policy explains what information the App collects, how it's used, and your choices.
 
-Using AIM Lift without an account holds all workout data that you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and nothing about your use of the App, including diagnostic data, is collected or leaves your device unless and until you complete the account creation process. Creating an account is 100% voluntary. Once an account is created, all of your current and future workout data is synced to the cloud automatically. Crash reports and usage analytics are collected as well. These help us fix any crashes that you might experience as well as monitor the general usage of app features. From this point of account creation, you can stop all data collection by signing out or by deleting your account in the App (see "Your Choices and Rights" below).
+Using AIM Lift without an account holds all workout data that you enter strictly on-device only, with zero cloud functionality — you have full unrestricted use of every app feature without ever creating an account, and nothing about your use of the App, including diagnostic data, is collected or leaves your device unless and until you complete the account creation process. Creating an account is 100% voluntary. Once an account is created, all of your current and future workout data is synced to the cloud automatically. Crash reports and usage analytics are collected as well. These help us fix any crashes that you might experience as well as monitor the general usage of app features. From this point of account creation, you can stop all data collection by signing out or by deleting your account in the App (see "Your Choices and Rights" below). Signing out stops further collection but does not delete data already collected; deleting your account does.
 
 ## Information We Collect
 
@@ -72,7 +72,7 @@ Nevada law (NRS 603A.400 to 603A.560) gives Nevada consumers specific rights reg
 - **Sources:** all consumer health data comes directly from you, entered by you in the App.
 - **Who we share it with:** Google Firebase, for authentication, storage, sync, analytics, and crash reporting. No other third party receives it.
 - **We do not sell consumer health data.**
-- **Your rights:** you may withdraw consent and request deletion of your consumer health data by deleting your account in the App, or by contacting us at the address below.
+- **Your rights:** you may withdraw consent by signing out or by deleting your account in the App, or by contacting us at the address below. You may request deletion of your consumer health data by deleting your account in the App, or by contacting us at the address below. Signing out stops further collection but does not delete data already collected; deleting your account does.
 
 ## For Connecticut Residents
 
