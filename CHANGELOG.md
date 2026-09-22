@@ -8,7 +8,7 @@
 - Fixed issue with History preview showing old numbers right after switching units
 - If sign-in can't verify your device, you now get a clear message instead of a vague error
 
-## 1.4.0+30 — Sep 13, 2026
+## 1.4.0+30 — Sep 14, 2026
 
 - Cloud Status moved to Account in Settings; tap it to retry sync
 - Sync now retries automatically when you return to the app
