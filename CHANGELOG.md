@@ -1,5 +1,13 @@
 # AIM Lift — Changelog
 
+## 1.5.0+31 — Sep 22, 2026
+
+- New Display setting: Prevent screen timeout during workout (off by default)
+- Profile sync dot now also appears when only part of your data is failing to sync
+- Fixed a data drift issue related to switching between kg and lbs
+- Fixed issue with History preview showing old numbers right after switching units
+- If sign-in can't verify your device, you now get a clear message instead of a vague error
+
 ## 1.4.0+30 — Sep 13, 2026
 
 - Cloud Status moved to Account in Settings; tap it to retry sync
