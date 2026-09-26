@@ -1,5 +1,16 @@
 # AIM Lift — Changelog
 
+## 1.6.0+33 — Sep 26, 2026
+
+- New app icon
+- "Home" is now in the center and renamed to "Lift"
+- Redesigned Lift screen, bolder cards, and the navigation tab lights up
+- Settings was getting crowded, so it has been tidied up
+- Logging a set traces the row and pops, and PRs are a lot more fun than before
+- A new progress bar in an active workout counts your working sets
+- Vibration is now an on/off toggle in Settings (off by default)
+- Fitness disclaimer and sign-in screens now work correctly with large font device settings
+
 ## 1.5.0+31 — Sep 22, 2026
 
 - New Display setting: Prevent screen timeout during workout (off by default)
